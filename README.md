@@ -1,9 +1,10 @@
 # Hi, I'm Francisco Solla 👋
 
-I'm a Senior Software Engineer with 8+ years of experience building fast, scalable, and user-centered applications across SaaS, B2B marketplaces, and consumer platforms. I specialize in TypeScript, React, React Native, and Next.js. With a strong focus on performance, accessibility, and long-term maintainability.
+I'm a Senior Software Engineer with 8+ years of experience building scalable, well-architected web and mobile applications across SaaS, marketplaces and consumer platforms. I specialize in TypeScript, React, Next.js, React Native, Expo, system design and moder frontend tolls. With a strong focus on performance and long-term maintainability.
 
-### 🛠️ What I’ve Worked On
-From launching new delivery verticals at iFood, to scaling subscription programs at Faire, building billing flows at Gorgias, and improving SEO + Core Web Vitals at Xometry, I’ve consistently delivered frontend architecture that supports product goals and team scalability. I believe great software is built on thoughtful design systems, documented decisions, and honest communication.
+Recently expanding into backend engineering with Node.js, Express, Prisma, and PostgreSQL. And Web3 development with wagmi, viem, @solana/web3.js and bitcoinjs-lib.
+
+I lead end-to-end features, contribute to large-scale design systems, and optimize performance with a focus on UX and maintainability.
 
 ---
 
@@ -17,28 +18,45 @@ Web3 has massive potential but it’s still inaccessible to many. I’m excited 
 
 ## 🚀 Featured Project
 
-### [Mycelia](https://mycelia.solla.dev)  
-A personal Web3 learning project and evolving dApp built with Next.js, wagmi, viem, and other tools. Mycelia is where I’m exploring wallet connection flows, dApp UX patterns, and Ethereum fundamentals.
+### [🌿 Mycelia](https://mycelia.solla.dev)
 
-> The goal: learn Web3 by building, and share that journey openly.  
-> [→ View repo](https://github.com/franciscosolla/mycelia-web)
+A **self-custodial, multi-chain, multi-account crypto wallet** built from scratch with cutting-edge tools. Mycelia explores wallet connection flows, account abstraction, asset aggregation, and a mobile-first design system optimized for thumb ergonomics.
+
+🔗 [View Live](https://mycelia.solla.dev)  
+🧠 [Read the README](https://github.com/franciscosolla/mycelia-web#readme)  
+🧪 [Explore the Code](https://github.com/franciscosolla/mycelia-web)
 
 ---
 
 ## 🧰 Tech Stack
-- **Core:** TypeScript, React, Next.js, React Native, Expo
-- **Styling:** Tailwind, CSS Modules, Styled Components
-- **Testing:** Jest, Playwright, React Testing Library
-- **Infra:** Vercel, GitHub Actions
-- **Exploring:** wagmi, WalletConnect, dApp UX
+
+- **Languages:** JavaScript, TypeScript, HTML
+- **Frameworks:** React, Next.js, React Native, Expo
+- **Styling:** CSS, Tailwind, Styled Components
+- **Testing:** Jest, React Testing Library, Playwright, Storybook
+- **State Management:** React Query, Redux, Zustand, React Hooks
+- **Tooling:** Figma, Vercel, Railway, Linear, Jira, Notion, Slack
+- **Backend:** Node.js, Express, Prisma, PostgreSQL
+- **Web3:** Wagmi, Viem, @solana/web3.js, bitcoinjs-lib, Alchemy
+
+---
+
+## 💡 Highlights from Recent Roles
+
+- ⚙️ **Thomasnet/Xometry** – Web Vitals optimization, CSS refactors, PHP→React migration
+- 💳 **Gorgias** – Billing & tax flows with Stripe, unified UI components, testing culture
+- 🌍 **Faire** – Launched subscription product across Europe, TypeScript migration, A/B testing
+- 🍔 **iFood** – Built grocery MVP for low-income users, homepage relaunch, Redux optimization
+
+See full CV → [solla.dev/cv-resume-francisco-solla-software-engineer.pdf](https://www.solla.dev/cv-resume-francisco-solla-software-engineer.pdf)
 
 ---
 
 ## 🌍 About Me
 
-I'm currently based in Salvador, Brazil. A dual citizen of Brazil and Spain, fluent in English, and comfortable working remotely across time zones and cultures. I thrive in async, ownership-driven environments where builders are trusted to deliver.
+I'm based in Salvador, Brazil 🇧🇷 with dual citizenship 🇧🇷🇪🇸. Fluent in English, intermediate in French and Spanish. I thrive in async, autonomy-driven teams. I believe great software comes from strong fundamentals, clear ownership, and kind collaboration.
 
-If you're working on the future of the web, let’s talk.
+Let’s build something that matters.
 
 📫 [contact@solla.dev](mailto:contact@solla.dev)  
-🔗 [solla.dev](https://solla.dev) • [linkedin.com/in/francisco-solla](https://linkedin.com/in/francisco-solla) • [@franciscosolla](https://github.com/franciscosolla)
+🔗 [solla.dev](https://solla.dev), [GitHub](https://github.com/franciscosolla), [LinkedIn](https://linkedin.com/in/fsolla)
